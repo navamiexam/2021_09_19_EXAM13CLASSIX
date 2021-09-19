@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="B8D10AE0-691A-48A4-A885-ED3BB8B5FC39" version="0">
+	<info>
+		<title>2021_09_19_EXAM13CLASSIX</title>
+		<description/>
+	</info>
+	<files index="id44" thumbnail="id40" totalSize="2546090">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/fonts/fnt7.woff</file>
+		<file id="id11">data/html5-unsupported.html</file>
+		<file id="id12">data/html5.png</file>
+		<file id="id13">data/images/img-12bc959dbb6608781a3b5b5187ac3c646730c06f.png</file>
+		<file id="id14">data/images/img-15f39d049dcd2cd086a222024dcd969d0242f6f0.png</file>
+		<file id="id15">data/images/img-21b3fab8bceafebed7c23e971151df7c73d68cde.jpg</file>
+		<file id="id16">data/images/img-2a8db5d5553ed02a71f88d94f8ea04a89e3914db.gif</file>
+		<file id="id17">data/images/img-2c69e39d866f974aad65a181c7931156484f2011.png</file>
+		<file id="id18">data/images/img-32e66b1e0d5d399e838be2112eeea9cb1485da10.png</file>
+		<file id="id19">data/images/img-32facc9969b6b46d3df3f4545b709066a18ded85.jpg</file>
+		<file id="id20">data/images/img-3c4adb8c035ebd54d5aec03fb1325aeabd00d258.jpg</file>
+		<file id="id21">data/images/img-3d19ccc6e57801dd5a2845c0f63e6ab7368b30d4.jpg</file>
+		<file id="id22">data/images/img-625919ccd4635437ea17a6efb0726c24be96e01c.png</file>
+		<file id="id23">data/images/img-7854f75b7389ccc4f3bed783731907bcedc64b66.png</file>
+		<file id="id24">data/images/img-7855b5eb605898a9631f3084313ff2a9792d4faa.jpg</file>
+		<file id="id25">data/images/img-81da368ad3df304a3b782e273e1ff362d734fb4d.png</file>
+		<file id="id26">data/images/img-8860065e55a6b26a4bdbe98aa4effec8b1bd0817.png</file>
+		<file id="id27">data/images/img-9ad7b33d3ec5c7571e2b2845ae3d92133d37457f.png</file>
+		<file id="id28">data/images/img-a574dd9009e23d80d2234a09292817a2bc321949.png</file>
+		<file id="id29">data/images/img-a835f4d98f96f440fcf96d2c66930c64a6b3fd59.png</file>
+		<file id="id30">data/images/img-c62dd0dae1b36e71c7b1f3f7f960a9b35c6b2519.png</file>
+		<file id="id31">data/images/img-cacccf59d542e242a89043764ea6ca90227ee07b.png</file>
+		<file id="id32">data/images/img-cb1b83585a028b52157553650d11923d5c9323e6.jpg</file>
+		<file id="id33">data/images/img-d4939cd5ad7f3a2dec2bf85e8035948780d52541.png</file>
+		<file id="id34">data/images/img-dabc19714cd24a9c69f7e5b680773ecb2d5ca247.png</file>
+		<file id="id35">data/images/img-dfd3767356eaa600d5b1a0ecd15c2aac024d0cce.png</file>
+		<file id="id36">data/images/img-f6cb79216fa44ab05d3150223df7f4432e9d8561.jpg</file>
+		<file id="id37">data/images/img-f7f18906d9368cde828236e4c3b4cedcebbec245.png</file>
+		<file id="id38">data/ismplayer/app_store2x.png</file>
+		<file id="id39">data/ismplayer/play.svg</file>
+		<file id="id40">data/ismplayer/preview.png</file>
+		<file id="id41">data/ismplayer/style.css</file>
+		<file id="id42">data/ismplayer/style_mini.css</file>
+		<file id="id43">data/player.js</file>
+		<file id="id44">index.html</file>
+		<file id="id45">ismplayer.html</file>
+		<file id="id46">preview.png</file>
+	</files>
+</presentation>
+
